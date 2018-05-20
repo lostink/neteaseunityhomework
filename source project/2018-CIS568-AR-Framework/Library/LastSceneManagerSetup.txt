@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PaintBall_PC.unity
+  isLoaded: 1
+  isActive: 1

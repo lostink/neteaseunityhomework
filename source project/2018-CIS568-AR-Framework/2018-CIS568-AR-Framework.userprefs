@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PCNetwork.cs">
+    <Files>
+      <File FileName="Assets/targetCharacterController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MobileNetwork.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/MobileShooter.cs" Line="97" Column="30" />
+      <File FileName="Assets/Photon Unity Networking/Plugins/PhotonNetwork/PhotonView.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PCNetwork.cs" Line="73" Column="49" />
+      <File FileName="Assets/Scripts/BoardBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/LocomotionPackage/Scripts/AnimationStateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets/LocomotionPackage/Aux Scripts/AnimationGraph.cs" Line="1" Column="1" />
+      <File FileName="Assets/spawnControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
